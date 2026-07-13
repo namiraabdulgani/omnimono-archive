@@ -99,7 +99,7 @@ input#password_protected_password_new, input#password_protected_password_confirm
     margin-top: 15px;
     width: 860px;
     /*height: 480px;*/
-    /*background-image: url("/wp-content/plugins/password-protected/assets/css/images/PPP-ads-14.png");*/
+    /*background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/css/images/PPP-ads-14.png");*/
     background-color: rgb( 255, 255, 255 );
     background-position: center;
     background-repeat: no-repeat;
@@ -423,7 +423,7 @@ input#password_protected_password_new, input#password_protected_password_confirm
 .pp-pro-banner {
     width: 80%;
     height: auto;
-    background-image: url(/wp-content/plugins/password-protected/assets/images/banner-background.png);
+    background-image: url(/omnimono-archive//wp-content/plugins/password-protected/assets/images/banner-background.png);
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
@@ -1023,16 +1023,16 @@ input#password_protected_password_new, input#password_protected_password_confirm
     transition: box-shadow 0.05s;
 }
 .captcha-setting-field label.option-hcaptcha:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/h-captcha.svg");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/h-captcha.svg");
 }
 .captcha-setting-field label.option-recaptcha:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/re-captcha.svg");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/re-captcha.svg");
 }
 .captcha-setting-field label.option-turnstile:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/cloudflare.svg");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/cloudflare.svg");
 }
 .captcha-setting-field label.option-none:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/none.png");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/none.png");
 }
 .captcha-setting-field label:before {
     content: "";
@@ -1088,16 +1088,16 @@ label.option-hcaptcha-free, label.option-turnstile-free {
     background: #f3f3f3;
 }
 .captcha-setting-field label.option-hcaptcha-free:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/h-captcha.svg");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/h-captcha.svg");
 }
 .captcha-setting-field label.option-recaptcha-free:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/re-captcha.svg");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/re-captcha.svg");
 }
 .captcha-setting-field label.option-turnstile-free:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/cloudflare.svg");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/cloudflare.svg");
 }
 .captcha-setting-field label.option-none-free:before {
-    background-image: url("/wp-content/plugins/password-protected/assets/images/none.png");
+    background-image: url("/omnimono-archive//wp-content/plugins/password-protected/assets/images/none.png");
 }
 
 .captchaProBadge{

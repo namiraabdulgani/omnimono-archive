@@ -54,7 +54,7 @@
 }
 
 .process-button .loader {
-    background-image: url('/wp-content/plugins/php-settings/assets/img/hourglass.svg');
+    background-image: url('/omnimono-archive//wp-content/plugins/php-settings/assets/img/hourglass.svg');
     width: 26px;
     height: 26px;
     background-size: 26px;

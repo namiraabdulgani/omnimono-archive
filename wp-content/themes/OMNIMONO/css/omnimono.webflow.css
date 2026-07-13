@@ -338,7 +338,7 @@ a {
   -webkit-align-items: flex-end;
   -ms-flex-align: end;
   align-items: flex-end;
-  background-image: url('/wp-content/themes/OMNIMONO/images/sidney_cover.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/sidney_cover.jpg');
   background-position: 100% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2050,7 +2050,7 @@ a {
   height: 6%;
   margin-top: 1%;
   margin-left: 1%;
-  background-image: url('/wp-content/themes/OMNIMONO/images/OMNIMONO-WHITE.svg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/OMNIMONO-WHITE.svg');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2889,7 +2889,7 @@ a {
   display: block;
   width: 100%;
   height: 100vh;
-  background-image: url('/wp-content/themes/OMNIMONO/images/OMNIMONO-phoneBG.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/OMNIMONO-phoneBG.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -2905,7 +2905,7 @@ a {
   display: block;
   width: 70%;
   height: 60%;
-  background-image: url('/wp-content/themes/OMNIMONO/images/clouds-back-smaller.png');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/clouds-back-smaller.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -2923,7 +2923,7 @@ a {
   width: 100%;
   height: 80%;
   padding-bottom: 1px;
-  background-image: url('/wp-content/themes/OMNIMONO/images/clouds-front-smaller.png');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/clouds-front-smaller.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3033,7 +3033,7 @@ a {
   height: 100%;
   margin-top: 0%;
   margin-left: 2%;
-  background-image: url('/wp-content/themes/OMNIMONO/images/patronlogo.png');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/patronlogo.png');
   background-position: 50% 50%;
   background-size: contain;
   background-repeat: no-repeat;
@@ -3043,16 +3043,16 @@ a {
   width: 45%;
   margin-right: 3%;
   margin-left: 0%;
-  background-image: url('/wp-content/themes/OMNIMONO/images/sb_logo.png');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/sb_logo.png');
 }
 
 .featured-project-logo._3 {
-  background-image: url('/wp-content/themes/OMNIMONO/images/logo-vertical.png');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/logo-vertical.png');
 }
 
 .featured-project-logo._4 {
   width: 55%;
-  background-image: url('/wp-content/themes/OMNIMONO/images/Dolby_logo.svg-white.png');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/Dolby_logo.svg-white.png');
 }
 
 .footer-text {
@@ -3090,7 +3090,7 @@ a {
   width: 100%;
   height: 100vh;
   margin-left: 0px;
-  background-image: url('/wp-content/themes/OMNIMONO/images/keyvisual-copy.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/keyvisual-copy.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3122,7 +3122,7 @@ a {
 .fp-bg._3 {
   width: 100%;
   height: 100vh;
-  background-image: url('/wp-content/themes/OMNIMONO/images/cover-SG-3.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/cover-SG-3.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3132,7 +3132,7 @@ a {
 .fp-bg._4 {
   width: 100%;
   height: 100vh;
-  background-image: url('/wp-content/themes/OMNIMONO/images/dolby_cover4.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/dolby_cover4.jpg');
   background-position: 0px 0px;
   background-size: cover;
 }
@@ -3140,7 +3140,7 @@ a {
 .fp-bg._2 {
   width: 100%;
   height: 100vh;
-  background-image: url('/wp-content/themes/OMNIMONO/images/keyvisual-copy.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/keyvisual-copy.jpg');
   background-position: 100% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -3150,7 +3150,7 @@ a {
 .fp-bg._1 {
   width: 100%;
   height: 100vh;
-  background-image: url('/wp-content/themes/OMNIMONO/images/patron_cover2_flat.jpg');
+  background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/patron_cover2_flat.jpg');
   background-position: 50% 50%;
   background-size: cover;
   background-repeat: no-repeat;
@@ -4638,7 +4638,7 @@ a {
     position: fixed;
     width: 100%;
     height: 100vh;
-    background-image: url('/wp-content/themes/OMNIMONO/images/OMNIMONO-phoneBG.jpg');
+    background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/OMNIMONO-phoneBG.jpg');
     background-position: 50% 50%;
     background-size: cover;
     background-repeat: no-repeat;
@@ -5507,7 +5507,7 @@ a {
     z-index: -1;
     width: 100%;
     height: 100vh;
-    background-image: url('/wp-content/themes/OMNIMONO/images/OMNIMONO-phoneBG.jpg');
+    background-image: url('/omnimono-archive//wp-content/themes/OMNIMONO/images/OMNIMONO-phoneBG.jpg');
     background-position: 50% 50%;
     background-size: cover;
     -webkit-filter: hue-rotate(82deg) saturate(94%);
