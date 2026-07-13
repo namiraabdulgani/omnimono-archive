@@ -1,0 +1,42 @@
+{
+  "key": "group_field_post",
+  "title": "post fields",
+  "fields": [
+    {
+      "key": "text_field_client_3GIe",
+      "label": "client",
+      "name": "client",
+      "type": "text",
+      "instructions": "",
+      "required": 0,
+      "conditional_logic": 0,
+      "wrapper": {
+        "width": "",
+        "class": "",
+        "id": ""
+      },
+      "default_value": "",
+      "placeholder": "",
+      "prepend": "",
+      "append": "",
+      "maxlength": ""
+    }
+  ],
+  "location": [
+    [
+      {
+        "param": "post_type",
+        "operator": "==",
+        "value": "post"
+      }
+    ]
+  ],
+  "menu_order": 0,
+  "active": 1,
+  "position": "normal",
+  "hide_on_screen": "",
+  "description": "",
+  "modified": 1614735180,
+  "label_placement": "top",
+  "instruction_placement": "label"
+}

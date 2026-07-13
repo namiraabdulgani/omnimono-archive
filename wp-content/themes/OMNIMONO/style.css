@@ -1,0 +1,13 @@
+/*
+    Theme Name: OMNIMONO
+    Author: Namira Abdulgani
+    Description: Footer Fix 3/2/21
+    Version: 1.0.7
+    License: GPL v2
+    License URI: https://www.gnu.org/licenses/licenses.html
+    Text Domain: omnimono
+    */
+    .screen-reader-text {
+      display: none;
+    }
+    

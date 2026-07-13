@@ -1,0 +1,67 @@
+{
+  "pages": [
+    "index",
+    "work",
+    "detail_category"
+  ],
+  "plugins": [
+    "advanced-custom-fields"
+  ],
+  "cpt": [],
+  "data": {
+    "401": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "404": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "index": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "work": {
+      "query": [
+        "sight",
+        "sound",
+        "design",
+        "brand"
+      ],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "detail_work": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    },
+    "detail_category": {
+      "query": [],
+      "list": [],
+      "rule": [],
+      "cf": [],
+      "menu": [],
+      "boxes": []
+    }
+  },
+  "frontendEditor": true
+}
